@@ -1,2 +1,2 @@
-# Seahawks-Press-Decoder
+# Seahawks-Press-Enhance
 A fix to the low-quality mic issue in Seahawks press conferences.
