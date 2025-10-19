@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.venv/
+venv/
+
+# Secrets - CRITICAL
+.env
+gcloud-credentials.json
+
+# Django specific
+db.sqlite3
+
+# Generated Data
+/tmp/
+/chroma_data/
+
+# OS-specific
+.DS_Store
